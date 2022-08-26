@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="31051" started-at="2022-08-19T23:23:55 IST" finished-at="2022-08-19T23:24:26 IST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="31051" started-at="2022-08-19T23:23:55 IST" finished-at="2022-08-19T23:24:26 IST">
+      <class name="com.ITSM.qa.testcases.LogInPageTest">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.ITSM.qa.testcases.LogInPageTest@612679d6]" name="SetUp" is-config="true" duration-ms="6210" started-at="2022-08-19T23:24:19 IST" finished-at="2022-08-19T23:24:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="loginTest()[pri:1, instance:com.ITSM.qa.testcases.LogInPageTest@612679d6]" name="loginTest" duration-ms="1607" started-at="2022-08-19T23:24:25 IST" finished-at="2022-08-19T23:24:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ITSM.qa.testcases.LogInPageTest@612679d6]" name="tearDown" is-config="true" duration-ms="0" started-at="2022-08-19T23:24:26 IST" finished-at="2022-08-19T23:24:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ITSM.qa.testcases.LogInPageTest -->
+      <class name="com.ITSM.qa.testcases.HomePageTest">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.ITSM.qa.testcases.HomePageTest@1060b431]" name="SetUp" is-config="true" duration-ms="5912" started-at="2022-08-19T23:24:09 IST" finished-at="2022-08-19T23:24:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="AddTicket()[pri:1, instance:com.ITSM.qa.testcases.HomePageTest@1060b431]" name="AddTicket" duration-ms="3554" started-at="2022-08-19T23:24:15 IST" finished-at="2022-08-19T23:24:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddTicket -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ITSM.qa.testcases.HomePageTest@1060b431]" name="tearDown" is-config="true" duration-ms="1" started-at="2022-08-19T23:24:19 IST" finished-at="2022-08-19T23:24:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ITSM.qa.testcases.HomePageTest -->
+      <class name="com.ITSM.qa.testcases.CreatTicketPageTest">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.ITSM.qa.testcases.CreatTicketPageTest@5bb21b69]" name="SetUp" is-config="true" duration-ms="10008" started-at="2022-08-19T23:23:55 IST" finished-at="2022-08-19T23:24:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="CreateTicket()[pri:1, instance:com.ITSM.qa.testcases.CreatTicketPageTest@5bb21b69]" name="CreateTicket" duration-ms="3648" started-at="2022-08-19T23:24:05 IST" finished-at="2022-08-19T23:24:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateTicket -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ITSM.qa.testcases.CreatTicketPageTest@5bb21b69]" name="tearDown" is-config="true" duration-ms="1" started-at="2022-08-19T23:24:09 IST" finished-at="2022-08-19T23:24:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ITSM.qa.testcases.CreatTicketPageTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

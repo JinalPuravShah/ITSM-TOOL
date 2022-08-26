@@ -1,0 +1,2 @@
+cd C:\Users\ACC-152\eclipse-workspace\ITSMTest
+mvn clean install

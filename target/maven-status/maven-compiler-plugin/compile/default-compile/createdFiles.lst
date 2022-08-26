@@ -1,0 +1,6 @@
+com\ITSM\qa\util\Testutil.class
+com\ITSM\qa\pages\CreatTicketPage.class
+com\ITSM\qa\pages\HomePage.class
+com\ITSM\qa\pages\LogInPage.class
+com\ITSM\qa\pages\IncidentManagementPage.class
+com\ITSM\qa\base\TestBase.class
