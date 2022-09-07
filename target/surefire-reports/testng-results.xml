@@ -2,48 +2,48 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Surefire suite" duration-ms="31051" started-at="2022-08-19T23:23:55 IST" finished-at="2022-08-19T23:24:26 IST">
+  <suite name="Surefire suite" duration-ms="33738" started-at="2022-08-26T22:02:34 IST" finished-at="2022-08-26T22:03:08 IST">
     <groups>
     </groups>
-    <test name="Surefire test" duration-ms="31051" started-at="2022-08-19T23:23:55 IST" finished-at="2022-08-19T23:24:26 IST">
+    <test name="Surefire test" duration-ms="33738" started-at="2022-08-26T22:02:34 IST" finished-at="2022-08-26T22:03:08 IST">
       <class name="com.ITSM.qa.testcases.LogInPageTest">
-        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.ITSM.qa.testcases.LogInPageTest@612679d6]" name="SetUp" is-config="true" duration-ms="6210" started-at="2022-08-19T23:24:19 IST" finished-at="2022-08-19T23:24:25 IST">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.ITSM.qa.testcases.LogInPageTest@612679d6]" name="SetUp" is-config="true" duration-ms="6105" started-at="2022-08-26T22:03:00 IST" finished-at="2022-08-26T22:03:06 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetUp -->
-        <test-method status="PASS" signature="loginTest()[pri:1, instance:com.ITSM.qa.testcases.LogInPageTest@612679d6]" name="loginTest" duration-ms="1607" started-at="2022-08-19T23:24:25 IST" finished-at="2022-08-19T23:24:26 IST">
+        <test-method status="PASS" signature="loginTest()[pri:1, instance:com.ITSM.qa.testcases.LogInPageTest@612679d6]" name="loginTest" duration-ms="2129" started-at="2022-08-26T22:03:06 IST" finished-at="2022-08-26T22:03:08 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ITSM.qa.testcases.LogInPageTest@612679d6]" name="tearDown" is-config="true" duration-ms="0" started-at="2022-08-19T23:24:26 IST" finished-at="2022-08-19T23:24:26 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ITSM.qa.testcases.LogInPageTest@612679d6]" name="tearDown" is-config="true" duration-ms="1" started-at="2022-08-26T22:03:08 IST" finished-at="2022-08-26T22:03:08 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.ITSM.qa.testcases.LogInPageTest -->
       <class name="com.ITSM.qa.testcases.HomePageTest">
-        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.ITSM.qa.testcases.HomePageTest@1060b431]" name="SetUp" is-config="true" duration-ms="5912" started-at="2022-08-19T23:24:09 IST" finished-at="2022-08-19T23:24:15 IST">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.ITSM.qa.testcases.HomePageTest@1060b431]" name="SetUp" is-config="true" duration-ms="8394" started-at="2022-08-26T22:02:46 IST" finished-at="2022-08-26T22:02:55 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetUp -->
-        <test-method status="PASS" signature="AddTicket()[pri:1, instance:com.ITSM.qa.testcases.HomePageTest@1060b431]" name="AddTicket" duration-ms="3554" started-at="2022-08-19T23:24:15 IST" finished-at="2022-08-19T23:24:19 IST">
+        <test-method status="PASS" signature="AddTicket()[pri:1, instance:com.ITSM.qa.testcases.HomePageTest@1060b431]" name="AddTicket" duration-ms="5304" started-at="2022-08-26T22:02:55 IST" finished-at="2022-08-26T22:03:00 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AddTicket -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ITSM.qa.testcases.HomePageTest@1060b431]" name="tearDown" is-config="true" duration-ms="1" started-at="2022-08-19T23:24:19 IST" finished-at="2022-08-19T23:24:19 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ITSM.qa.testcases.HomePageTest@1060b431]" name="tearDown" is-config="true" duration-ms="0" started-at="2022-08-26T22:03:00 IST" finished-at="2022-08-26T22:03:00 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.ITSM.qa.testcases.HomePageTest -->
       <class name="com.ITSM.qa.testcases.CreatTicketPageTest">
-        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.ITSM.qa.testcases.CreatTicketPageTest@5bb21b69]" name="SetUp" is-config="true" duration-ms="10008" started-at="2022-08-19T23:23:55 IST" finished-at="2022-08-19T23:24:05 IST">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.ITSM.qa.testcases.CreatTicketPageTest@5bb21b69]" name="SetUp" is-config="true" duration-ms="8476" started-at="2022-08-26T22:02:35 IST" finished-at="2022-08-26T22:02:43 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetUp -->
-        <test-method status="PASS" signature="CreateTicket()[pri:1, instance:com.ITSM.qa.testcases.CreatTicketPageTest@5bb21b69]" name="CreateTicket" duration-ms="3648" started-at="2022-08-19T23:24:05 IST" finished-at="2022-08-19T23:24:09 IST">
+        <test-method status="PASS" signature="CreateTicket()[pri:1, instance:com.ITSM.qa.testcases.CreatTicketPageTest@5bb21b69]" name="CreateTicket" duration-ms="3205" started-at="2022-08-26T22:02:43 IST" finished-at="2022-08-26T22:02:46 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CreateTicket -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ITSM.qa.testcases.CreatTicketPageTest@5bb21b69]" name="tearDown" is-config="true" duration-ms="1" started-at="2022-08-19T23:24:09 IST" finished-at="2022-08-19T23:24:09 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ITSM.qa.testcases.CreatTicketPageTest@5bb21b69]" name="tearDown" is-config="true" duration-ms="1" started-at="2022-08-26T22:02:46 IST" finished-at="2022-08-26T22:02:46 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
